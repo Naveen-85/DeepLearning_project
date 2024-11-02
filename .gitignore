@@ -1,0 +1,53 @@
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+env/
+
+# Node.js
+node_modules/
+dist/
+build/
+yarn-error.log
+npm-debug.log*
+
+# Java
+*.class
+target/
+build/
+
+# Environment files
+.env
+.env.local
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.iml
+out/
+*.sublime-project
+*.sublime-workspace
+
+# Version control and backups
+.git/
+*~
+*.bak
+*.orig
