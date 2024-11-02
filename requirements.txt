@@ -6,4 +6,4 @@ streamlit
 tensorflow
 tensorboard
 streamlit
-
+ipykern
